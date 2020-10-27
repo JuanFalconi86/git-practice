@@ -1,0 +1,4 @@
+Name : Juan Falconi
+Edad : 34
+Color Preferido : Verde
+Esto es una adaptacion de mi texto
